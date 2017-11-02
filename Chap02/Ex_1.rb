@@ -5,7 +5,7 @@ puts 24 * 365
 puts 24 * 366
 
 #Minutes in a decade
-puts ((60 * 24) * 365) * 10
+puts (60 * 24) * ((365 * 10) + 2)
 
 #Your age in seconds
 puts ((60*60) * 24 ) * 365 *24
