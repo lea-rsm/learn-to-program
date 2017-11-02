@@ -9,3 +9,6 @@ puts ((60 * 24) * 365) * 10
 
 #Your age in seconds
 puts ((60*60) * 24 ) * 365 *24
+
+#author's age
+puts 1160000000 / (60 * 60 * 24 * 365)
